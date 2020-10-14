@@ -1,2 +1,2 @@
 # ionic-test
-learing ionic
+learing ionic with Angular
